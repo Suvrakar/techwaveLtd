@@ -30,7 +30,7 @@ function App() {
     });
   }, []);
 
-  useDocTitle("Techwave Limited");
+  useDocTitle("Techwave Solutions Limited");
 
   return (
     <>
